@@ -76,3 +76,4 @@ Moderate accuracy is expected due to noisy and informal nature of Twitter data.
 
 ## Project Structure
 
+Google Colab Link: <https://colab.research.google.com/drive/1vOee3S1-WhT5GRFtPItVYY7sdjnnY1TJ?usp=sharing>

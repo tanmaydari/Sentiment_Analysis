@@ -74,16 +74,6 @@ Moderate accuracy is expected due to noisy and informal nature of Twitter data.
 
 ---
 
-## Project Structure
-
-Sentiment-Analysis/
-│
-├── Sentiment_Analysis.ipynb
-├── sentiment_data.csv
-└── README.md
-
----
-
 ## Author
 **Tanmay Dari**
 

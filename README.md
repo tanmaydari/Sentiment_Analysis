@@ -1,5 +1,17 @@
 # Twitter Sentiment Analysis using NLP
 
+*COMPANY* : CODTECH IT SOLUTIONS
+
+*NAME* : TANMAY DARI
+
+*INTERN ID* : CTIS2656
+
+*DOMAIN* : DATA ANALYTICS
+
+*DURATION* : 4 WEEKS
+
+*MENTOR* : NEELA SANTHOSH KUMAR
+
 ## Project Overview
 This project performs Sentiment Analysis on Twitter data using Natural Language Processing (NLP) techniques. The goal is to classify tweets as Positive or Negative based on their content.
 
